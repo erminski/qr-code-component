@@ -34,11 +34,11 @@ body {
   font-family: 'Outfit', sans-serif;
 }
 
-section {
+main {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 95vh;
+  height: 100vh;
 }
 
 .component {
